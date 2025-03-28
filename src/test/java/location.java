@@ -11,6 +11,7 @@ public class location extends base{
     public void locationTest() {
 
        driver.get("https://www.playtechpeople.com");
+       // comment
 
    }
 
